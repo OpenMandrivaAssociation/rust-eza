@@ -17,7 +17,7 @@ Group:          Development/Rust
 License:        EUPL-1.2
 URL:            https://crates.io/crates/eza
 Source0:        https://github.com/eza-community/eza/archive/refs/tags/v$version.tar.gz#/eza-%version.tar.gz
-#Source0:        %{crates_source}
+Source1:        %{crates_source}
 #Source1:        %{name}-%{version}-vendor.tar.xz
 # Automatically generated patch to strip dependencies and normalize metadata
 Patch:          eza-fix-metadata-auto.diff
