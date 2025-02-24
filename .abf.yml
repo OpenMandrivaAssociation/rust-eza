@@ -1,6 +1,3 @@
 sources:
-  #"eza-0.20.22.crate": 0f770775e793e0181ade4841c060d13bbc50a56f
-  #"rust-eza-0.20.22-vendor.tar.xz": 46b24ba5fb0267c730937fb6b56e7a3cf2416f04
-  eza-0.20.22.tar.gz: 878e0ea75eef171554ea3f32b26d0053839fa890
   eza-0.20.22.crate: 0f770775e793e0181ade4841c060d13bbc50a56f
-  
+  rust-eza-0.20.22-vendor.tar.xz: 471a13ba50a9473d32d07fa393b62f5ec4a6320e
